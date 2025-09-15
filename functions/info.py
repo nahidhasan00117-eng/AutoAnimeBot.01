@@ -29,12 +29,12 @@ class AnimeInfo:
         self.kitsu = RawAnimeInfo()
         self.CAPTION = """
 **{}
-━━━━━━━━━━━━━━━
-‣ Language:** `Japanese [ESub]`
-**‣ Quality:** `480p|720p|1080p`
-**‣ Season:** `{}`
-**‣ Episode:** `{}`
-**━━━━━━━━━━━━━━━**
+**➪ Season:** `{}`
+**➪ Episode:** `{}`
+**➪ Audio:** `Japanese & English Sub`
+**➪ Quality:** `480p|720p|1080p`
+
+**☏ Powerd By : - @Sanctuary_Stardust**
 """
         self.proper_name = self.get_proper_name_for_func(name)
         self.name = name
