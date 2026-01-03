@@ -9,17 +9,17 @@
     "env": {
         "API_ID": {
             "description": "You api id, from my.telegram.org",
-            "value": ""
+            "value": "39136272"
         },
 
         "API_HASH": {
             "description": "You api hash, from my.telegram.org",
-            "value": ""
+            "value": "e5cc75d9b3370d6e4db1e44a411f3486"
         },
 
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather, and enter it's api token here.",
-            "value": ""
+            "value": "8250488074:AAHA80Mnf2oR06r1rr2xkW4a-uBtDgfQvD8"
         },
 
         "SESSION": {
@@ -30,43 +30,43 @@
 
         "OWNER": {
             "description": "Get ur Id Of Telegram nd Paste Here.",
-            "value": ""
+            "value": "8252127476"
         },
 
         "MONGO_SRV": {
             "description": "Mongo SRV from mongo db.",
-            "value": ""
+            "value": "mongodb+srv://nahidhasan00117_db_user:NsE8IG5tvJ1kOR3L@cluster0.xnitfwn.mongodb.net/?appName=Cluster0"
         },
 
         "MAIN_CHANNEL": {
             "description": "ID of Your Main Channel.",
-            "value": ""
+            "value": "-1003605431168"
         },
 
         "BACKUP_CHANNEL": {
             "description": "If You Want Button Upload On Main Channel Don't Forget To Add Backup Channel becoz anime will be save in backup channel",
-            "value": ""
+            "value": "-1003605431168"
         },
 
         "LOG_CHANNEL": {
             "description": "Channel ID Where You Can Check Status Of Tasks.",
-            "value": ""
+            "value": "-1003605431168"
         },
 
         "CLOUD_CHANNEL": {
             "description": "Channel ID Where Bot Will Upload Samples And Screen Shots.",
-            "value": ""
+            "value": "-1003605431168"
         },
 
         "FORCESUB_CHANNEL": {
             "description": "Channel ID For ForceSub",
-            "value": "",
+            "value": "-1003605431168",
             "required": false
         },
 
         "FORCESUB_CHANNEL_LINK": {
             "description": "Channel Link Of ForceSub",
-            "value": "",
+            "value": "https://t.me/+E8IwZ54IDLk0MTll",
             "required": false
         },
 
